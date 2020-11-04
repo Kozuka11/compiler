@@ -14,7 +14,7 @@ int main(int argc, char **argv) {
     //空白の時
     if (isspace(*p)) {
       p++;
-      printf("あ");
+      printf("　");
       continue;
     }
     //数字の時
